@@ -7,3 +7,6 @@ c:\users\kevinx2ultimate\documents\visual studio 2012\Projects\githubtest\github
 c:\users\kevinx2ultimate\documents\visual studio 2012\Projects\githubtest\githubtest\obj\Debug\githubtest.csproj.GenerateResource.Cache
 c:\users\kevinx2ultimate\documents\visual studio 2012\Projects\githubtest\githubtest\obj\Debug\githubtest.exe
 c:\users\kevinx2ultimate\documents\visual studio 2012\Projects\githubtest\githubtest\obj\Debug\githubtest.pdb
+D:\visual studio\schooljaar 2016-2017\githubtest1\githubtest\bin\Debug\githubtest.exe.config
+D:\visual studio\schooljaar 2016-2017\githubtest1\githubtest\obj\Debug\githubtest.exe
+D:\visual studio\schooljaar 2016-2017\githubtest1\githubtest\obj\Debug\githubtest.pdb

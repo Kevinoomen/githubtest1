@@ -19,17 +19,17 @@ namespace githubtest
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("");
+            MessageBox.Show("iets");
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("");
+            MessageBox.Show("iets2");
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("");
+            MessageBox.Show("iets3");
         }
     }
 }
