@@ -1,1 +1,9 @@
 c:\users\kevinx2ultimate\documents\visual studio 2012\Projects\githubtest\githubtest\bin\Debug\githubtest.exe.config
+c:\users\kevinx2ultimate\documents\visual studio 2012\Projects\githubtest\githubtest\bin\Debug\githubtest.exe
+c:\users\kevinx2ultimate\documents\visual studio 2012\Projects\githubtest\githubtest\bin\Debug\githubtest.pdb
+c:\users\kevinx2ultimate\documents\visual studio 2012\Projects\githubtest\githubtest\obj\Debug\githubtest.csprojResolveAssemblyReference.cache
+c:\users\kevinx2ultimate\documents\visual studio 2012\Projects\githubtest\githubtest\obj\Debug\githubtest.Form1.resources
+c:\users\kevinx2ultimate\documents\visual studio 2012\Projects\githubtest\githubtest\obj\Debug\githubtest.Properties.Resources.resources
+c:\users\kevinx2ultimate\documents\visual studio 2012\Projects\githubtest\githubtest\obj\Debug\githubtest.csproj.GenerateResource.Cache
+c:\users\kevinx2ultimate\documents\visual studio 2012\Projects\githubtest\githubtest\obj\Debug\githubtest.exe
+c:\users\kevinx2ultimate\documents\visual studio 2012\Projects\githubtest\githubtest\obj\Debug\githubtest.pdb
